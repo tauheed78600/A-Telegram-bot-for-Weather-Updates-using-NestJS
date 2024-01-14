@@ -1,0 +1,4 @@
+interface BotSettings {
+    apiKey: string;
+  }
+  
